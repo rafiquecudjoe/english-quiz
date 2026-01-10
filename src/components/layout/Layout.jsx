@@ -28,7 +28,7 @@ export default function Layout() {
       {/* Mobile Slide-out Menu */}
       <div className={`lg:hidden fixed left-0 top-0 bottom-0 w-72 bg-surface-darker border-r border-surface-border z-50 transform transition-transform duration-300 ${mobileMenuOpen ? 'translate-x-0' : '-translate-x-full'}`}>
         <div className="h-16 px-4 flex items-center justify-between border-b border-surface-border">
-          <img src="/logo.png" alt="Quiz Lobby" className="h-10" />
+          <img src="/logo3.png" alt="Quiz Lobby" className="h-20" />
           <button 
             onClick={() => setMobileMenuOpen(false)}
             className="size-10 rounded-full bg-surface-light flex items-center justify-center text-white"
@@ -79,7 +79,7 @@ export default function Layout() {
           </button>
 
           {/* Logo for mobile */}
-          <img src="/logo.png" alt="Quiz Lobby" className="h-8 lg:hidden" />
+          <img src="/logo3.png" alt="Quiz Lobby" className="h-14 lg:hidden" />
 
           {/* XP and Streak Badges */}
           <div className="hidden sm:flex items-center gap-3 mr-auto lg:mr-0">

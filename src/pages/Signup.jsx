@@ -31,7 +31,7 @@ export default function Signup() {
       <div className="relative z-10 w-full max-w-md">
         {/* Logo */}
         <div className="text-center mb-8">
-          <img src="/logo.png" alt="Quiz Lobby" className="h-16 mx-auto mb-4 drop-shadow-[0_0_20px_rgba(15,98,197,0.4)]" />
+          <img src="/logo3.png" alt="Quiz Lobby" className="h-16 mx-auto mb-4 drop-shadow-[0_0_20px_rgba(15,98,197,0.4)]" />
           <h1 className="text-3xl font-black text-white mb-2">Create Account</h1>
           <p className="text-text-muted">Join Quiz Lobby and start learning</p>
         </div>

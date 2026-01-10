@@ -23,7 +23,7 @@ export default function Login() {
       <div className="w-full max-w-md relative z-10">
         {/* Logo */}
         <div className="flex justify-center mb-8">
-          <img src="/logo.png" alt="Quiz Lobby" className="h-24 w-auto drop-shadow-2xl" />
+          <img src="/logo3.png" alt="Quiz Lobby" className="h-24 w-auto drop-shadow-2xl" />
         </div>
 
         {/* Login Card */}

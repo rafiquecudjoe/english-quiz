@@ -27,9 +27,9 @@ export default function Sidebar() {
          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-32 h-32 bg-primary/20 rounded-full blur-[50px] opacity-50 group-hover:opacity-100 transition-opacity duration-500"></div>
          
          <img 
-           src="/logo.png" 
+           src="/logo3.png" 
            alt="Quiz Lobby" 
-           className="h-12 w-auto relative z-10 drop-shadow-[0_0_15px_rgba(15,98,197,0.5)] transition-transform duration-300 group-hover:scale-105" 
+           className="h-24 w-auto relative z-10 drop-shadow-[0_0_15px_rgba(15,98,197,0.5)] transition-transform duration-300 group-hover:scale-105" 
          />
       </div>
 
